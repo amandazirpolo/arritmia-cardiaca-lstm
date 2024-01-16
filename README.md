@@ -54,7 +54,7 @@ cujo objetivo é usar técnicas de deep learning para identificar e classificar 
 
 <h6>Orientadora: Profa. Dra. Taiane Coelho Ramos</h6>
 
-<h2 align="center"> <img = src="logo_ic.png" width=20%> <img = src="download-removebg-preview.png" width=18%><img = src="image-2.png" width=30%></h2>
+<h2 align="center"> <img = src="images/logo_ic.png" width=20%> <img = src="images/download-removebg-preview.png" width=18%><img = src="images/image-2.png" width=30%></h2>
 <hr>
 <p align="center">
 <i> Universidade Federal Fluminense, 2024</i>
