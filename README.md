@@ -17,8 +17,8 @@ cujo objetivo é usar técnicas de deep learning para identificar e classificar 
 
 <h3>Base de dados utilizada:</h3>
 <ul>
-    <li><a href=“https://www.kaggle.com/datasets/erarayamorenzomuten/chapmanshaoxing-12lead-ecg-database/data “>A 12-lead electrocardiogram database for arrhytmia research covering more than 10,000 patients</a>
-    <li><a href=“https://www.kaggle.com/datasets/erarayamorenzomuten/chapmanshaoxing-12lead-ecg-database/data “>Link para download dos dados</a>
+    <li><a href="https://www.kaggle.com/datasets/erarayamorenzomuten/chapmanshaoxing-12lead-ecg-database/data">A 12-lead electrocardiogram database for arrhytmia research covering more than 10,000 patients</a>
+    <li><a href="https://www.kaggle.com/datasets/erarayamorenzomuten/chapmanshaoxing-12lead-ecg-database/data">Link para download dos dados</a>
 </ul>
 
 
