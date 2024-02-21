@@ -25,11 +25,11 @@ cujo objetivo é usar técnicas de deep learning para identificar e classificar 
 <h3>Algoritmos a serem implementados:</h3>
 - [ ] Long Short Term Memory (LSTM)
 <br>
-- [ ] Support Vector Machine (SVM)
-<br>
 - [ ] Convolutional Neural Network (CNN)
 <br>
 - [ ] K-NBearest Neighbors (KNN)
+<br>
+- [ ] Recurrent Neural Network (RNN)
 <br>
 
 <h3>Fases da pesquisa:</h3>
